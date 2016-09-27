@@ -51,6 +51,14 @@
 
 - [Centre for Social Innovation - Starrett-Lehigh](https://socialinnovation.org/location/csi-new-york-city/) - 601 W 26th St #325.
 
+## International
+
+### Portugal
+
+- [PortoIO](http://porto.io/)
+  - [Downtown](http://porto.io/downtown) - R. de Cândido dos Reis 81, 4050-152 Porto
+  - [Riverside](http://porto.io/riverside) - Rua do Infante D. Henrique 73, 4050-492 Porto
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
