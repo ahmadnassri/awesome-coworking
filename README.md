@@ -24,6 +24,7 @@
 - [IQ Office Suites](https://iqoffice.ca/) - 140 Yonge St #200.
 - [Acme Works](http://www.acmeworks.ca/) - 229 Niagara Street.
 - [Creative Blueprint](http://creativeblueprint.ca/) - 376 Bathurst Street, 2nd Floor
+- [East Room](http://eastroom.ca/) - 50 Carroll Street, Suite 200
 - [Foundery](http://foundery.is/) - 376 Bathurst Street.
 - [Gizmolabs](http://gizmolabs.ca/) - 298 Dundas St. West.
 - [Lab T.O.](http://labto.com/) - 231 Wallace Ave.
