@@ -38,12 +38,35 @@
 - [RNDMWRK](http://rndmwrk.com/)
   - [Chinatown](http://rndmwrk.com/locations/) - 307 Spadina Ave.
   - [Queen West](http://rndmwrk.com/locations/) - 1034 Queen St West.
+- [Shopp](http://www.shopp.space/) - 299 King St W.
 - [The Fueling Station](http://www.thefuelingstation.com/) - 147 Liberty Street.
 - [Women on the Move](http://www.womenonthemove.club/) - 2111 Dundas Street West.
 - [Workplace One](http://workplaceone.com/)
   - [King E](http://workplaceone.com/locations/king-east) - 340 King St East.
   - [King W](http://workplaceone.com/locations/king-west-liberty) - 901 King St West.
   - [Queen](http://workplaceone.com/locations/queen-west) - 51 Wolseley Street.
+
+## Indonesia
+
+### Bali
+- [Dojo Bali](http://www.dojobali.org/en) - Jalan Batu Mejan No.88, Canggu.
+- [Hubud](http://www.hubud.org/) - Monkey Forest Road 88x 
+Ubud, Gianyar, Bali.
+- [Kumpul](https://www.kumpul.co/) - Rumah Sanur, Jl. Danau Poso 51A, 80228 Sanur.
+- [Outpost](http://www.outpost-asia.com/) - Jalan Raya Nyuh Kuning, Ubud.
+
+## Japan
+
+### Tokyo
+- [CASE Shinjuku](http://case-shinjuku.com/) - Japan, 〒169-0075 Tokyo, Shinjuku, Takadanobaba, 1−28−10, 三慶ビル4F
+
+## Portugal
+
+### Porto
+- [Porto i/o](http://porto.io/) 
+  - [Downtown](http://porto.io/downtown) - R. de Cândido dos Reis 81
+  - [Riverside](http://porto.io/riverside) - Rua do Infante D. Henrique 73
+
 
 ## United States
 
