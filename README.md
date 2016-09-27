@@ -51,6 +51,6 @@
 To the extent possible under law, [Ahmad Nassri](https://www.ahmadnassri.com.com) has waived all copyright and related or neighboring rights to this work.
 
 ----
-> Ahmad Nassri [www.ahmadnassri.com](https://www.ahmadnassri.com/) &nbsp;&middot;&nbsp;
+> Ahmad Nassri: [www.ahmadnassri.com](https://www.ahmadnassri.com/) &nbsp;&middot;&nbsp;
 > Github: [@ahmadnassri](https://github.com/ahmadnassri) &nbsp;&middot;&nbsp;
 > Twitter: [@ahmadnassri](https://twitter.com/ahmadnassri)
