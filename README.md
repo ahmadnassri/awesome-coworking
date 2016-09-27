@@ -2,7 +2,7 @@
 
 > A curated list of co-working spaces around the globe.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
 
 ## Contents
 
