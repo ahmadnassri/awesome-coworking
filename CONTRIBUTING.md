@@ -12,7 +12,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Start the description with a capital and end with a full stop/period.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- The pull request should have a useful title and include a link to the package and why it should be included.
+- When adding a new City and/or Country, please ensure headings (h1, h2) are properly followed 
 
 ---
 
