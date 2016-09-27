@@ -27,6 +27,8 @@
 - [East Room](http://eastroom.ca/) - 50 Carroll Street, Suite 200
 - [Foundery](http://foundery.is/) - 376 Bathurst Street.
 - [Gizmolabs](http://gizmolabs.ca/) - 298 Dundas St. West.
+- [RNDMWRK - Queen West](http://rndmwrk.com/locations/) - 1034 Queen St West.
+- [RNDMWRK - Chinatown](http://rndmwrk.com/locations/) - 307 Spadina Ave.
 - [Lab T.O.](http://labto.com/) - 231 Wallace Ave.
 - [MakeWorks](http://makeworks.com/) - 1139 College Street.
 - [Northspace](http://northspace.ca/) - 21 Kodiak Crescent.
