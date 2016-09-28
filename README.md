@@ -9,6 +9,8 @@
 - [Canada](#canada)
   - [Toronto](#toronto)
 - [United States](#united-states)
+- [Portugal](#portugal)
+  - [Porto](#porto)
 
 ## Canada
 
@@ -51,9 +53,9 @@
 
 - [Centre for Social Innovation - Starrett-Lehigh](https://socialinnovation.org/location/csi-new-york-city/) - 601 W 26th St #325.
 
-## International
+## Portugal
 
-### Portugal
+### Porto
 
 - [PortoIO](http://porto.io/)
   - [Downtown](http://porto.io/downtown) - R. de Cândido dos Reis 81, 4050-152 Porto
