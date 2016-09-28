@@ -9,6 +9,7 @@
 - [Canada](#canada)
   - [Toronto](#toronto)
 - [United States](#united-states)
+  - [New York](#new-york)
 - [Portugal](#portugal)
   - [Porto](#porto)
 
