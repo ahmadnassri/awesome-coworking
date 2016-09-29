@@ -7,6 +7,7 @@
 ## Contents
 
 - [Canada](#canada)
+  - [Halton Region](#halton-region)
   - [Montreal](#montreal)
   - [Toronto](#toronto)
   - [Vancouver](#vancouver)
@@ -99,6 +100,10 @@
 - [Werklab, Inc](http://www.werklab.com/) - 1275 Venables St #330
 - [Kabuni](https://www.kabuni.com/) - 1378 West Pender Street
 - [The Amp- Co-Working for Teams](https://theampvancouver.ca/) - 90-425 Carrall St
+
+### Halton Region
+- [MEV Innovation Centre](http://www.mevinnovationcentre.ca/) - 555 Industrial Dr, Milton
+- [Halton Hive](http://haltonhive.com/) - 901 Guelph Line, Burlington
 
 ## United States
 
