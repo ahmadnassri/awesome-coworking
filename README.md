@@ -31,6 +31,8 @@
   - [Porto](#porto)
 - [Japan](#japan)
   -[Tokyo](#tokyo)
+- [Indonesia](#indonesia)
+  - [Bali](#bali)
 
 ## Canada
 
