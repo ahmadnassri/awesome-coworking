@@ -324,6 +324,11 @@
 ### Tokyo
 - [CASE Shinjuku](http://case-shinjuku.com/) - Japan, 〒169-0075 Tokyo, Shinjuku, Takadanobaba, 1−28−10, 三慶ビル4F
 
+## Indonesia
+
+### Bali
+- [Dojo Bali](http://www.dojobali.org/en) - Jalan Batu Mejan No.88, Canggu
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
