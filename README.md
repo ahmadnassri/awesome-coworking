@@ -252,7 +252,7 @@
 - [RocketSpace](http://www.rocketspace.com/) - 180 Sansome S
 - [DG717 space: coworking and events](http://www.dg717.com/) - 717 Market St #100
 - [ConnectionsSF](https://www.connectionssf.com/) - 424 Clay St
-- [Bespoke Coworking](http://www.bespokesf.co/) - Westfield San Francisco Centre, Level 4, #450A,, 845 Market St
+- [Bespoke Coworking](http://www.bespokesf.co/) - 845 Market St, #450A, 
 - [The Vault](http://www.thesfvault.com/#anchor-team) - 415 Jackson St
 - [NextSpace Coworking](http://www.nextspace.us/) - 28 2nd Street 3rd Floor
 - [Impact Hub](http://sanfrancisco.impacthub.net/) - 901 Mission St #105
@@ -262,8 +262,8 @@
 - [Nomad-A-What Coworking](http://nomadawhat.com/) - 639 Clay St
 - [Runway](http://www.runway.is/) - 1355 Market St #488
 - [SOMAcentral](http://www.somacentral.com/) - 450 Townsend St
-- [Parisoma](http://www.parisoma.com/) - 169 11th St, San Francisco, CA 94103
-- [Spherepad Coworking](http://spherepad.co/) - 1714 Stockton St, San Francisco, CA 94133
+- [Parisoma](http://www.parisoma.com/) - 169 11th St, CA 94103
+- [Spherepad Coworking](http://spherepad.co/) - 1714 Stockton St, CA 94133
 - [Next Space Coworking](http://www.nextspace.us/) - 28 2nd Street 3rd Floor
 
 ## United Kingdom
