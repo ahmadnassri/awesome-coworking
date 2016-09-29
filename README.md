@@ -330,6 +330,7 @@
 - [Dojo Bali](http://www.dojobali.org/en) - Jalan Batu Mejan No.88, Canggu
 - [Hubud](http://www.hubud.org/) - Monkey Forest Road 88x Ubud, Gianyar
 - [Kumpul](https://www.kumpul.co/) - Rumah Sanur, Jl. Danau Poso 51A, 80228 Sanur
+- [Outpost](http://www.outpost-asia.com/) - Jalan Raya Nyuh Kuning, Ubud
 
 ## License
 
