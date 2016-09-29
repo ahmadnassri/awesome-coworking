@@ -28,6 +28,8 @@
   - [Berlin](#berlin)
 - [Portugal](#portugal)
   - [Porto](#porto)
+- [Japan](#japan)
+  -[Tokyo](#tokyo)
 
 ## Canada
 
@@ -316,6 +318,19 @@
 - [PortoIO](http://porto.io/)
   - [Downtown](http://porto.io/downtown) - R. de Cândido dos Reis 81, 4050-152 Porto
   - [Riverside](http://porto.io/riverside) - Rua do Infante D. Henrique 73, 4050-492 Porto
+
+## Japan
+
+### Tokyo
+- [CASE Shinjuku](http://case-shinjuku.com/) - Japan, 〒169-0075 Tokyo, Shinjuku, Takadanobaba, 1−28−10, 三慶ビル4F
+
+## Indonesia
+
+### Bali
+- [Dojo Bali](http://www.dojobali.org/en) - Jalan Batu Mejan No.88, Canggu
+- [Hubud](http://www.hubud.org/) - Monkey Forest Road 88x Ubud, Gianyar
+- [Kumpul](https://www.kumpul.co/) - Rumah Sanur, Jl. Danau Poso 51A, 80228 Sanur
+- [Outpost](http://www.outpost-asia.com/) - Jalan Raya Nyuh Kuning, Ubud
 
 ## License
 
