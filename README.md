@@ -55,7 +55,6 @@
 - [MakeWorks](http://makeworks.com/) - 1139 College Street.
 - [MaRS Commons](https://www.marsdd.com/facilities/office-and-lab-space/) - 101 College St.
 - [Northspace](http://northspace.ca/) - 21 Kodiak Crescent.
-- [OneEleven](http://www.oneeleven.com/) 111 Richmond Street West.
 - [Project Spaces](https://www.projectspac.es/camden)
   - [Camden](https://www.projectspac.es/camden) - 20 Camden Street.
   - [King West](https://www.projectspac.es/king-west) - 73 Bathurst Street.
