@@ -30,7 +30,7 @@
 - [Portugal](#portugal)
   - [Porto](#porto)
 - [Japan](#japan)
-  -[Tokyo](#tokyo)
+  - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
   - [Bali](#bali)
 
