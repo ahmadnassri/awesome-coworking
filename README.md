@@ -32,7 +32,7 @@
 - [Romania](#romania)
   - [Cluj-Napoca](#cluj-napoca)
 - [Japan](#japan)
-  -[Tokyo](#tokyo)
+  - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
   - [Bali](#bali)
 
