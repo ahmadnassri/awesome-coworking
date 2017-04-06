@@ -29,6 +29,8 @@
   - [Berlin](#berlin)
 - [Portugal](#portugal)
   - [Porto](#porto)
+- [Romania](#romania)
+  - [Cluj-Napoca](#cluj-napoca)
 - [Japan](#japan)
   -[Tokyo](#tokyo)
 - [Indonesia](#indonesia)
@@ -324,6 +326,12 @@
 - [PortoIO](http://porto.io/)
   - [Downtown](http://porto.io/downtown) - R. de Cândido dos Reis 81, 4050-152 Porto
   - [Riverside](http://porto.io/riverside) - Rua do Infante D. Henrique 73, 4050-492 Porto
+
+## Romania
+
+### Cluj-Napoca
+
+ - [Cluj Cowork](http://clujcowork.ro/) - Cluj-Napoca 400023, Emil Isac street, nr 23
 
 ## Japan
 
