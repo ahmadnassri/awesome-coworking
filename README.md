@@ -21,7 +21,9 @@
   - [Seattle](#seattle)
   - [Portland, OR](#portland-or)
   - [Dallas](#dallas)
-- [United Kingdom](#united-kingdom) 
+- [United Kingdom](#united-kingdom)
+  - [Bristol](#bristol)
+  - [Hemel Hempstead](#hemel-hempstead)
   - [London](#london)
 - [France](#france)
   - [Paris](#paris)
@@ -216,7 +218,7 @@
 - [XOXO Outpost](https://outpostpdx.com/) - 419 NE 10th Ave
 - [Ctrl-H Hackerspace](http://pdxhackerspace.org/) - 7608 N Interstate Ave
 - [Desk and Mug Coworking Studio](http://www.deskandmug.com/) - 6006 NE Glisan St
- 
+
 ### Dallas
 
 - [HeadSpace Dallas](http://www.headspacedallas.com/) - 4100 Midway Rd #2120
@@ -255,14 +257,14 @@
 - [WeWork Charging Bull](https://www.wework.com/locations/new-york-city/charging-bull) - 25 Broadway
 - [Spark Labs](http://spark-labs.co/#welcome) - 833 Broadway
 - [Joynture](http://joynture.com/) - 48 Wall St
-- [Quest Workspaces New York](http://questworkspaces.com/newyork.php) - 1271 Avenue of the Americas, 43rd Floor 
+- [Quest Workspaces New York](http://questworkspaces.com/newyork.php) - 1271 Avenue of the Americas, 43rd Floor
 
 ### San Francisco
 
 - [RocketSpace](http://www.rocketspace.com/) - 180 Sansome S
 - [DG717 space: coworking and events](http://www.dg717.com/) - 717 Market St #100
 - [ConnectionsSF](https://www.connectionssf.com/) - 424 Clay St
-- [Bespoke Coworking](http://www.bespokesf.co/) - 845 Market St, #450A, 
+- [Bespoke Coworking](http://www.bespokesf.co/) - 845 Market St, #450A,
 - [The Vault](http://www.thesfvault.com/#anchor-team) - 415 Jackson St
 - [NextSpace Coworking](http://www.nextspace.us/) - 28 2nd Street 3rd Floor
 - [Impact Hub](http://sanfrancisco.impacthub.net/) - 901 Mission St #105
@@ -277,6 +279,12 @@
 - [Next Space Coworking](http://www.nextspace.us/) - 28 2nd Street 3rd Floor
 
 ## United Kingdom
+
+### Bristol
+- [Desklodge](http://desklodge.com/bristol/) - 1 Temple Way, 5th Floor, BS2 0BY
+
+### Hemel Hempstead
+- [Desklodge](http://desklodge.com/hemel-hempstead/) - 61 Maxted Road, HP2 7DZ
 
 ### London
 - [Greenhouse](http://thegreenhouselondon.com/) - 49 Green Lanes
