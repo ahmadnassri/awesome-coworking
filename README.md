@@ -74,6 +74,7 @@
 
 ### Montreal
 
+- [Crew Collective & Cafe](https://crewcollectivecafe.com/) - 360 St Jacques St.
 - [GamePlay Space / L'Espace Ludique](http://gameplayspace.com/) - 1435 Rue St-Alexandre
 - [IDEAL Coworking](http://idealcoworking.blogspot.com/p/services.html) - 4035 Rue Saint-Ambroise #415
 - [WeWork Place Ville Marie](https://www.wework.com/locations/montreal/place-ville-marie) - 3 Place Ville Marie
