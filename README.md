@@ -9,6 +9,7 @@
 - [Canada](#canada)
   - [Halton Region](#halton-region)
   - [Montreal](#montreal)
+  - [Peel Region](#peel-region)
   - [Toronto](#toronto)
   - [Vancouver](#vancouver)
 - [United States](#united-states)
@@ -113,6 +114,9 @@
 - [Werklab, Inc](http://www.werklab.com/) - 1275 Venables St #330
 - [Kabuni](https://www.kabuni.com/) - 1378 West Pender Street
 - [The Amp- Co-Working for Teams](https://theampvancouver.ca/) - 90-425 Carrall St
+
+### Peel Region
+- [LAB B](https://www.lab-b.ca/) - 60 Queen St E, Unit 104 Brampton
 
 ### Halton Region
 - [MEV Innovation Centre](http://www.mevinnovationcentre.ca/) - 555 Industrial Dr, Milton
