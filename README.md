@@ -74,6 +74,7 @@
   - [King E](http://workplaceone.com/locations/king-east) - 340 King St East.
   - [King W](http://workplaceone.com/locations/king-west-liberty) - 901 King St West.
   - [Queen](http://workplaceone.com/locations/queen-west) - 51 Wolseley Street.
+- [Workwell Cafe](http://www.workwellcafe.com/) - 49 Spadina Ave.
 - [Verkspace](http://verk.space/) - 32 Britain Street.
 
 ### Montreal
