@@ -37,8 +37,6 @@
   - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
   - [Bali](#bali)
-- [Brazil](#brazil)
-  - [Sao Paulo](#sao-paulo)
 
 ## Canada
 
@@ -67,19 +65,19 @@
 - [RNDMWRK](http://rndmwrk.com/)
   - [Chinatown](http://rndmwrk.com/locations/) - 307 Spadina Ave.
   - [Queen West](http://rndmwrk.com/locations/) - 1034 Queen St West.
-- [Shecosystem](https://www.shecosystem.ca/) - 703 Bloor Street West.
 - [The Fueling Station](http://www.thefuelingstation.com/) - 147 Liberty Street.
 - [Women on the Move](http://www.womenonthemove.club/) - 2111 Dundas Street West.
 - [Workplace One](http://workplaceone.com/)
   - [King E](http://workplaceone.com/locations/king-east) - 340 King St East.
   - [King W](http://workplaceone.com/locations/king-west-liberty) - 901 King St West.
   - [Queen](http://workplaceone.com/locations/queen-west) - 51 Wolseley Street.
-- [Workwell Cafe](http://www.workwellcafe.com/) - 49 Spadina Ave.
-- [Verkspace](http://verk.space/) - 32 Britain Street.
+- [WeWork](http://wework.com)
+  - [Bloor](https://www.wework.com/buildings/33-bloor-street--toronto) - 3 Bloor St East.
+  - [Richmond](https://www.wework.com/buildings/richmond-street-west--toronto) - 240 Richmond Street West.
+
 
 ### Montreal
 
-- [Crew Collective & Cafe](https://crewcollectivecafe.com/) - 360 St Jacques St.
 - [GamePlay Space / L'Espace Ludique](http://gameplayspace.com/) - 1435 Rue St-Alexandre
 - [IDEAL Coworking](http://idealcoworking.blogspot.com/p/services.html) - 4035 Rue Saint-Ambroise #415
 - [WeWork Place Ville Marie](https://www.wework.com/locations/montreal/place-ville-marie) - 3 Place Ville Marie
@@ -359,11 +357,6 @@
 - [Hubud](http://www.hubud.org/) - Monkey Forest Road 88x Ubud, Gianyar
 - [Kumpul](https://www.kumpul.co/) - Rumah Sanur, Jl. Danau Poso 51A, 80228 Sanur
 - [Outpost](http://www.outpost-asia.com/) - Jalan Raya Nyuh Kuning, Ubud
-
-## Brazil
-
-### Sao Paulo
-- [Campus São Paulo](https://www.campus.co/sao-paulo/en/) - Rua Coronel Oscar Porto, 70 - Paraíso - São Paulo
 
 ## License
 
