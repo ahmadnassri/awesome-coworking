@@ -65,12 +65,14 @@
 - [RNDMWRK](http://rndmwrk.com/)
   - [Chinatown](http://rndmwrk.com/locations/) - 307 Spadina Ave.
   - [Queen West](http://rndmwrk.com/locations/) - 1034 Queen St West.
+- [Shecosystem](https://www.shecosystem.ca/) - 703 Bloor Street West.
 - [The Fueling Station](http://www.thefuelingstation.com/) - 147 Liberty Street.
 - [Women on the Move](http://www.womenonthemove.club/) - 2111 Dundas Street West.
 - [Workplace One](http://workplaceone.com/)
   - [King E](http://workplaceone.com/locations/king-east) - 340 King St East.
   - [King W](http://workplaceone.com/locations/king-west-liberty) - 901 King St West.
   - [Queen](http://workplaceone.com/locations/queen-west) - 51 Wolseley Street.
+- [Verkspace](http://verk.space/) - 32 Britain Street.
 
 ### Montreal
 
