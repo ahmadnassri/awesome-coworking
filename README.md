@@ -37,6 +37,8 @@
   - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
   - [Bali](#bali)
+- [Brazil](#brazil)
+  - [Sao Paulo](#sao-paulo)
 
 ## Canada
 
@@ -356,6 +358,11 @@
 - [Hubud](http://www.hubud.org/) - Monkey Forest Road 88x Ubud, Gianyar
 - [Kumpul](https://www.kumpul.co/) - Rumah Sanur, Jl. Danau Poso 51A, 80228 Sanur
 - [Outpost](http://www.outpost-asia.com/) - Jalan Raya Nyuh Kuning, Ubud
+
+## Brazil
+
+### Sao Paulo
+- [Campus São Paulo](https://www.campus.co/sao-paulo/en/) - Rua Coronel Oscar Porto, 70 - Paraíso - São Paulo
 
 ## License
 
