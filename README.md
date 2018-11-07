@@ -10,6 +10,7 @@
   - [Halton Region](#halton-region)
   - [Montreal](#montreal)
   - [Peel Region](#peel-region)
+  - [Ottawa](#ottawa)
   - [Toronto](#toronto)
   - [Vancouver](#vancouver)
 - [United States](#united-states)
@@ -99,6 +100,11 @@
 - [LeGare](https://garemtl.com/) - 5333 Avenue Casgrain #102
 - [Halte 24-7 - Coworking Montréal](http://halte24-7.com/) - 4284 Rue de la Roche
 - [6cent1](http://www.6cent1.com/) - 400 Avenue Atlantic #601
+
+### Ottawa
+- [Impact Hub](https://ottawa.impacthub.net/) - 123 Slater St, 6th Floor
+- [MakerSpace North](http://www.makerspacenorth.com/) - 250 City Centre Ave #21
+- [TheCodeFactory](https://thecodefactory.ca/) - 100 Gloucester St
 
 ### Vancouver
 - [Hive](http://www.hivevancouver.com/) - 128 W Hastings St #210
