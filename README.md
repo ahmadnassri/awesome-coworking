@@ -76,6 +76,7 @@
 - [WeWork](http://wework.com)
   - [Bloor](https://www.wework.com/buildings/33-bloor-street--toronto) - 3 Bloor St East.
   - [Richmond](https://www.wework.com/buildings/richmond-street-west--toronto) - 240 Richmond Street West.
+- [The Workaround](https://theworkaround.ca/) - 2080 Danforth Avenue
 
 
 ### Montreal
