@@ -64,6 +64,7 @@
 - [Project Spaces](https://www.projectspac.es/camden)
   - [Camden](https://www.projectspac.es/camden) - 20 Camden Street.
   - [King West](https://www.projectspac.es/king-west) - 73 Bathurst Street.
+- [Riverdale Hub](https://www.riverdalehub.ca/) - 1326 Gerrard Street East.
 - [RNDMWRK](http://rndmwrk.com/)
   - [Chinatown](http://rndmwrk.com/locations/) - 307 Spadina Ave.
   - [Queen West](http://rndmwrk.com/locations/) - 1034 Queen St West.
