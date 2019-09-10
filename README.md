@@ -171,7 +171,6 @@
 - [Work In Progress - Downtown](http://www.workinprogress.lv/) - 317 S 6th St
 - [Co-Operate On Main](http://www.co-operateon.com/) - 817 S Main St
 - [The Innevation Center](http://www.innevation.com/) - 6795 S Edmond St
-- [Teamvvork](http://www.teamvvork.com/) - 1118 S Main St
 - [Work In Progress - Southwest](http://workinprogress.lv/) - 8945 W Russell Rd #170
 
 ### Denver
