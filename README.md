@@ -75,8 +75,12 @@
   - [King W](http://workplaceone.com/locations/king-west-liberty) - 901 King St West.
   - [Queen](http://workplaceone.com/locations/queen-west) - 51 Wolseley Street.
 - [WeWork](http://wework.com)
-  - [Bloor](https://www.wework.com/buildings/33-bloor-street--toronto) - 3 Bloor St East.
+  - [33 Bloor](https://www.wework.com/buildings/33-bloor-street--toronto) - 33 Bloor St East.
+  - [1 University](https://www.wework.com/buildings/1-university-ave--toronto) - 1 University Ave.
+  - [100 University](https://www.wework.com/buildings/100-university-ave--toronto) - 100 University Ave.
   - [Richmond](https://www.wework.com/buildings/richmond-street-west--toronto) - 240 Richmond Street West.
+  - [Scotia Plaza](https://www.wework.com/buildings/scotia-plaza--toronto) - 40 King St W, 41st Floor.
+  
 - [The Workaround](https://theworkaround.ca/) - 2080 Danforth Avenue
 
 
