@@ -111,6 +111,7 @@
 - [TheCodeFactory](https://thecodefactory.ca/) - 100 Gloucester St
 
 ### Vancouver
+- [Devhub](http://www.devhub.ca/) - 401 West Georgia #600
 - [Hive](http://www.hivevancouver.com/) - 128 W Hastings St #210
 - [The Profile-Vancouver](http://theprofile.ca/) - The Landing, 375 Water St #200
 - [Suite Genius Kitsilano](https://suite-genius.com/) - 1737 W 3rd Ave Suite 210
