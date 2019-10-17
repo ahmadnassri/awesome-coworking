@@ -82,6 +82,7 @@
   - [Scotia Plaza](https://www.wework.com/buildings/scotia-plaza--toronto) - 40 King St W, 41st Floor.
   
 - [The Workaround](https://theworkaround.ca/) - 2080 Danforth Avenue
+- [Verkspace](https://verk.space/) - 410 Adelaide Street West - Suite 220
 
 
 ### Montreal
