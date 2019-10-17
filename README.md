@@ -52,7 +52,7 @@
   - [Regent Park](https://socialinnovation.org/location/csi-regent-park/) - 585 Dundas St East.
   - [Spadina](https://socialinnovation.org/location/csispadina/) - 215 Spadina Ave.
 - [Creative Blueprint](http://creativeblueprint.ca/) - 376 Bathurst Street.
-- [DevHub](http://devhub.ca) - 46 Spadina Street.
+- [DevHub Toronto](http://devhub.ca) - 662 King Street West #101
 - [East Room](http://eastroom.ca/) - 50 Carroll Street.
 - [Foundery](http://foundery.is/) - 376 Bathurst Street.
 - [Gizmolabs](http://gizmolabs.ca/) - 298 Dundas Street West.
