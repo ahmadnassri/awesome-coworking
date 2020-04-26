@@ -375,6 +375,107 @@
 - [Kumpul](https://www.kumpul.co/) - Rumah Sanur, Jl. Danau Poso 51A, 80228 Sanur
 - [Outpost](http://www.outpost-asia.com/) - Jalan Raya Nyuh Kuning, Ubud
 
+## Malaysia
+
+### Johor
+- [52ST](https://www.facebook.com/52stspace/) - 46-2, Jalan Setia Tropika 1/18, Setia Tropika
+- [Big Wheel Mount Austin](http://www.bigwheel.com.my/) - Iskandar Flagship A with Matured Development
+- [Big Wheel Sunway Iskandar](http://www.bigwheel.com.my/) - Iskandar Flagship B New Business District Centre
+- [DreamSpace 1Terbau](http://dreamspace.asia/) - B-03-14, 1Tebrau, Jalan Tebrau, Off Jalan Seri Setanggi, Taman Seri Setanggi
+- [DreamSpace Puteri Harbour](http://dreamspace.asia/puteri-harbour/) - Unit 1-2, Teega Tower, Jalan Laksamana 1, Puteri Harbour
+- [GASpace Johor Bahru](http://gaspace.com.my/) - B-04-14, 1 Tebrau, Jalan Tebrau, Off Jalan Seri Setanggi, Taman Seri Setanggi
+- [Infinity8 Business Centre](https://infinity8.com.my/business-centre/) - 1A, Jalan Harmonium 23/12, Taman Desa Tebrau
+- [Infinity8 City Centre](https://infinity8.com.my/city-centre/) - 60, Jalan Tebrau
+- [Infinity8 E-Commerce Hub](https://infinity8.com.my/e-commerce-hub/) - 121-01, Jalan Mutiara Emas 2A, Taman Mount Austin
+- [Infinity8 HQ](https://infinity8.com.my) - 37A, Jalan Harmonium 23.13, Taman Desa Tebrau
+- [IskandarSpace](https://www.iskandar.space/) - Lvl 2, CIMB Leadership Academy, No 3, Jalan Medini Utara 1, Medini Iskandar
+- [Mee Inn Work](https://www.meninnwork.com/) - 34-01, Jalan Molek 1/28, Taman Molek
+- [My Cloud Labs](https://my-cloud-labs.business.site/) - 90-01 Jalan Molek 2/2, Taman Molek
+- [Quarters Coworking Space](https://www.quarterscowork.com/) - 6, Jalan Kencana Emas 2/3, Taman Mount Austin
+- [V Workspace](https://thevworkspace.com/) - 16A, Jalan Ceria 1A, Taman Nusa Indah, Iskandar Puteri
+- [Winspace](http://www.winspace.com.my/) - 3A, Jalan Setia Tropika 1/8, Taman Setia Tropika
+### Kedah
+- [TRE Coworking Space](https://tre.work/) - No. G-1 & G-2 , Bangunan Arena 55, Lorong Perak 12, Kawasan Perusahaan Mergong 2
+### Kelantan
+- [Drum & Desk](https://www.facebook.com/drumanddesk/) - 2055, Lorong Taman Sari 2
+### Kuala Lumpur
+- [Co-labs KL City Centre](https://co-labs.asia/location/co-labs-kl-city-centre) - Level 23A-25, Naza Tower, Platinum Park, 10, Persiaran KLCC
+- [Colony Eco City](https://colony.work/kl-eco-city/) - Levels 16-20, Boutique Office 1(BO1-D), Menara 2, No. 3, Jalan Bangsar, Kampung Haji Abdullah Hukum
+- [Colony KL Sentral](https://colony.work/kl-sentral/) - Unit 37-02, Level 37, Q Sentral, 2A, Jalan Stesen Sentral 2, Kuala Lumpur Sentral
+- [Colony KLCC](https://colony.work/klcc/) - 6, Jalan Kia Peng
+- [Colony Star Boulevard KLCC](https://colony.work/star-boulevard-klcc/) - Level 5, Star Boulevard, Jalan Yap Kwan Seng, Kampung Baru
+- [Common Ground Bukit Bintang](https://www.commonground.work/locations/my/kuala-lumpur/bukit-bintang) - Level 24 & 25, 198 Menara Worldwide, Jalan Bukit Bintang
+- [Common Ground KL Eco City](https://www.commonground.work/locations/my/kuala-lumpur/mid-valley) - Levels 15-19, Boutique Office 1 (B01-C), Menara 2, KL Eco City, No 3, Jalan Bangsar
+- [Common Ground KL Sentral](https://www.commonground.work/locations/my/kuala-lumpur/klsentral) - Unit 39-02 (East Wing), Q Sentral, 2A, Jalan Stesen Sentral 2, Kuala Lumpur Sentral
+- [Common Ground Mont Kiara](https://www.commonground.work/locations/my/kuala-lumpur/wisma-mont-kiara) - Level 13A Wisma Mont’ Kiara, No 1 Jalan Kiara, Mont’ Kiara
+- [Common Ground TTDI](https://www.commonground.work/locations/my/kuala-lumpur/menara-ken-ttdi) - Level 11, Menara KEN TTDI, 37, Jalan Burhanuddin Helmi, Taman Tun Dr. Ismail
+- [DOJO KL](https://dojokl.com/) - Level 1, Menara Amplewest, 6 Jalan P Ramlee
+- [GASpace Kuala Lumpur](http://gaspace.com.my/) - 16-10, Tower A, Vertical Business Suite, Avenue 3, Bangsar South City, No.8, Jalan Kerinchi
+- [H Space Bangsar South](https://hspace.co/workspace/bangsar-south/) - No 8, Suite 28-1, Level 28 Vertical Corporate Office Tower B Bangsar South City, Jalan Kerinchi, Bangsar South
+- [Found8 KL Sentral](https://www.found8.com/) - 5, East Wing, Level, 3, Jalan Stesen Sentral, Kuala Lumpur Sentral
+- [Komune Bangsar South](https://www.komunecowork.com/the-vertical-bangsar-south) - Level 8, Vertical Corporate Tower B, Avenue 10, The Vertical, No. 8, Jalan Kerinchi, Bangsar South City
+- [Komune KLCC](https://www.komunecowork.com/wisma-uoa-2-klcc) - Level 6, Lobby A, Wisma UOA II, No 21 Jalan Pinang
+- [Unispace KL Sentral](https://www.unispace.my/kl-sentral) - Q Sentral, Floor 21, Units 08 & 09, Kuala Lumpur Sentral
+- [WeWork Equatorial Plaza](https://www.wework.com/buildings/equatorial-plaza--kuala-lumpur) - 14, Jalan Sultan Ismail
+- [WeWork Mercu 2](https://www.wework.com/buildings/mercu-2--kuala-lumpur) - No. 3, Jalan Bangsar, KL Eco City
+- [WORQ KL Gateway](https://worq.space/coworking-space/kl-gateway/) - Unit 3.07, Level 3, KL Gateway Mall, No. 2, Jalan Kerinchi, Pantai Dalam
+- [WORQ TTDI](https://worq.space/coworking-space/ttdi/) - Unit 1.02, Glo Damansara, No. 699, Jalan Damansara
+### Labuan
+- [GASpace Labuan](http://gaspace.com.my/) - Unit No.3A-2, Level 3A, Office Lot, Labuan Times Square, Jalan Merdeka
+- [Socowo](https://www.socowolabuan.com/) - Office Unit 9E, Main Office Tower, Financial Park Labuan Complex, Jalan Merdeka
+### Pahang
+- [Starway Valley](https://starwayprofessional.com/starwayvalley/) - A-29, Second Floor, Lorong Seri Kuantan 82, Jalan Beserah
+### Penang
+- [aCAT Penang](https://acatpenang.com/coworking-space/) - Level 3, Wisma Yeap Chor Ee,16 Gat Lebuh Cina
+- [Bersama-sama](http://www.bersama.my/) 26B, Jalan Todak 2, Seberang Jaya
+- [Cohere](https://cohere.my/) - No. 51-1, Jalan Icon City, Icon City, Bukit Mertajam
+- [Common Ground George Town](https://www.commonground.work/locations/my/penang/penang/moulmeineriseshoppe) - Level 2, Moulmein Rise Shoppes, No. 9, Jalan Moulmein, George Town
+- [Habitat](https://habitat-cowork.com/) - 48A (1st & 2nd), Lorong Tanjung Aman 2, Taman Tanjung Aman, Butterworth
+- [MSOGO](https://www.msogo.com/) - 33-1-123A, 33-2-123, 33-3-123C, (Level 1 to Level 3, Atrium B, Jalan Dr Lim Chwee Leong, George Town
+- [Nomazon](https://nomazon.com/) - Lintang Bayan Lepas 11, Bayan Lepas
+- [Scoopoint](https://www.scoopoint.com/) - Level 2, Tamarins House, No. 46 Pengkalan Weld
+- [Settlements](http://settlements.work/) - 170-08 Argyll Road, Livingston Tower, Georgetown
+- [The Opis](http://www.theopis.com/) - Jalan Hutton, George Town
+### Perak
+- [Incubator4U](http://incubator4u.com.my/) - 270-A2, Wisma Foo Yet Kai, Jalan Sultan Iskandar
+### Putrajaya
+- [CoSpace By Cyberview](https://cyberview.com.my/tech-hub-service/office-space/CoSpace) - Block 3750 Persiaran APEC, Cyber 8
+- [UrbanHive](https://urbanhive.com.my/) - M-2-08, Conezion Commercial, Persiaran IRC 3, IOI City Resort
+### Selangor
+- [Co-labs Shah Alam](https://co-labs.asia/location/co-labs-shah-alam) - B-02-01, Block B, Sekitar26 Enterprise, Persiaran Hulu Selangor, Seksyen 26, Shah Alam
+- [Co-labs The Starling Plus](https://co-labs.asia/location/co-labs-the-starling-plus) - Level 4, Uptown 7, Damansara Utama, Jalan SS21/39, Petaling Jaya
+- [Co3 Social Office](https://co3.co/) - 2-3, Jalan Merbah 1, Bandar Puchong Jaya, Puchong
+- [Colony Mutiara Damansara](https://colony.work/mutiara-damansara/) - Level 8, KYM Tower, 8, Jalan PJU 7/6, Mutiara Damansara, Petaling Jaya
+- [Common Ground Mutiara Damansara](https://www.commonground.work/locations/my/petaling-jaya/mutiaradamansara) - Level 16 & 17, Nucleus Tower, No. 10, Jalan PJU 7/6, Mutiara Damansara, Petaling Jaya 
+- [Common Ground Petaling Jaya](https://www.commonground.work/locations/my/petaling-jaya/jayaone) - G.016, The Square, Jaya One, 72A, Jalan Universiti, Seksyen 13, Petaling Jaya
+- [DreamSpace Sunway Geo Avenue](http://dreamspace.asia/) - Jalan Lagoon Selatan, Subang Jaya
+- [GASpace Puchong](http://gaspace.com.my/) - e-Dynasty Building, No.15-1, Jalan OP1/2, Pusat Perdagangan One Puchong, Off Jalan Puchong, Puchong
+- [H Space Bandar Utama](https://hspace.co/workspace/bandar-utama-kpmg-tower/) - Level 6.06, KPMG Tower, 8, First Avenue, Bandar Utama, Petaling Jaya
+- [H Space Workwell @ Future of Wellness](https://www.hspace.co/outlets/kota-damansara) - 22A, 26 & 28, Jalan PJU 5/4, Dataran Sunway, Kota Damansara
+- [MaGIC Co-Working Space Cyberjaya Campus](https://mymagic.my/facilities/cyberjaya-campus-co-working-space/) - Block 3730 Persiaran APEC, Cyberjaya
+- [Nomad](https://www.nomadmalaysia.com/) - No. 7, 1ST Floor, SS 18/1B, Subang Jaya
+- [WORQ Subang](https://worq.space/coworking-space/subang/) - Unit 2-1, The Podium, Tower 3, UOA Business Park, No. 1, Jalan Pengaturcara U1/51A, Section U1, Shah Alam
+### Sabah
+- [+ERO-X](http://www.erox.com.my/) - 15-1, Lot 34, 1st Floor Block D, Lorong Singgah Mata 2, Asia City, Kota Kinabalu
+- [E Space](https://www.e-space.com.my/) - Mile 5.5, Tuaran Road, Off Kolombong Road, Kota Kinabalu
+- [GASpace Kota Kinabalu](http://gaspace.com.my/) - Lot 1-1-6, 1st Floor, Block B, Kolam Centre Phase 2, Hilltop, Luyang, Jalan Lintas
+- [GASpace Sandakan](http://gaspace.com.my/) - Lot 7, 1st Floor, Block M, Bandar Letat Jaya, Batu 3 1/2, Jalan Lintas Utara
+- [Podders](https://poddersmy.business.site/) - J-1-3, 88 Marketplace, Kepayan Commercial Centre, Kota Kinabalu
+- [SOVO Kota Kinabalu](http://www.sovo.com.my/) - Lot 3-4, 3rd Floor, Lintas Platinum, Kota Kinabalu
+- [SOVO Miri](http://www.sovo.com.my/) - A-2-09, 2nd Floor, Block A, Miri Times Square, Marina Parkcity, Miri
+- [Toojou Opis Co-Working Space](https://www.toojou.com/) - 12, Jalan Masjid Lama, Bandaran Berjaya, Kota Kinabalu
+### Sarawak
+- [cent@cube](https://www.centacube.com.my/) - 1st Floor of Sublot 35, Riveredge Commercial Centre, Jalan Datuk Patinggi Haji Abdul, Rahman Yakub, Kuching
+- [DeskSpace](http://www.deskspace.info/) - Bintulu
+- [Genesis Coworking Space](https://genesis-coworking-space.business.site/) - Lot 531, 2nd floor, Pelita Commercial Centre, Miri
+- [iCube Innovation](https://www.icubeinnovation.com.my/) - ICOM Square, B423-B433, Tower B2, Level 4, Jalan Pending, Kuching
+- [MaGIC Co-Working Space Sarawak Campus](https://mymagic.my/facilities/sarawak-campus-co-working-space/) - Block B, Borneo744, Jalan Semangat, Bintawa Industrial Estate, Kuching
+- [Sarikei Innovation Center](http://sarikeiinnovation.com/coworking/) - Jalan Nyelong, Bandar Sarikei, Sarikei
+- [SMA-TEGAS Digital Innovation Hub Bintulu](https://www.innovatesarawak.com/) - A3-2-1 - A3-3-3 and A3-2-3a, Second Floor, Block A3, North Court, Naim Street Mall, Bintulu Paragon, Bintulu
+- [SMA-TEGAS Digital Innovation Hub Kuching](https://www.innovatesarawak.com/) - B325-B329, Level 3, Block B2, ICOM Square, Kuching
+- [SMA-TEGAS Digital Innovation Hub Miri](https://www.innovatesarawak.com/) - A-2-29 - A-2-30 - A-2-31A and A-2-31B, Second Floor, Miri Times Square @ Marina ParkCity, Miri
+- [The Hills](https://thehills.my/) - No 8, UG Floor, The Hills Jalan Bukit Mata, Interhill Place, Kuching
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
