@@ -39,6 +39,19 @@
   - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
   - [Bali](#bali)
+- [Malaysia](#malaysia)
+  - [Johor](#johor)
+  - [Kedah](#kedah)
+  - [Kelantan](#kelantan)
+  - [Kuala Lumpur](#kuala-lumpur)
+  - [Labuan](#labuan)
+  - [Pahang](#pahang)
+  - [Penang](#penang)
+  - [Perak](#perak)
+  - [Putrajaya](#putrajaya)
+  - [Selangor](#selangor)
+  - [Sabah](#sabah)
+  - [Sarawak](#sarawak)
 
 ## Canada
 
