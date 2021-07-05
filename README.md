@@ -31,6 +31,8 @@
   - [Paris](#paris)
 - [Germany](#germany)
   - [Berlin](#berlin)
+- [Switzerland](#switzerland)
+  - [Bern](#bern)
 - [Portugal](#portugal)
   - [Porto](#porto)
 - [Romania](#romania)
@@ -360,6 +362,14 @@
 - [Mindspace Berlin-Mitte](http://mindspace.me/berlin/) - Friedrichstraße 68
 - [b+office](http://bplusoffice.de/) - Dudenstraße 10
 - [Weserland Coworking Space](http://coworking.weser.land/) - Weserstraße 21
+
+## Switzerland
+
+### Bern
+
+- [Effinger Kaffeebar & Coworking](https://effinger.ch) - Effingerstrasse 10
+- [Coworking Köniz Zentrum](https://coworking.koeniz.space) - Könizstrasse 298
+- [Outside Society](https://outside-society.ch/) - Reichenbachstrasse 161
 
 ## Portugal
 
