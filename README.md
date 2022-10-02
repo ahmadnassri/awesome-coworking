@@ -28,6 +28,7 @@
   - [Hemel Hempstead](#hemel-hempstead)
   - [London](#london)
 - [France](#france)
+  - [Nancy](#nancy)
   - [Paris](#paris)
 - [Germany](#germany)
   - [Berlin](#berlin)
@@ -335,6 +336,10 @@
 - [Rentadesk](http://www.rentadesk.co.uk/) - 35 Little Russell St
 
 ## France
+
+### Nancy
+
+- [BeePlex](https://beeplex.fr/) - 10 rue Virtor Poirel
 
 ### Paris
 
