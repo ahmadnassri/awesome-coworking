@@ -37,6 +37,8 @@
   - [Porto](#porto)
 - [Romania](#romania)
   - [Cluj-Napoca](#cluj-napoca)
+- [Bulgaria](#bulgaria)
+  - [Kazanlak](#kazanlak)
 - [Japan](#japan)
   - [Tokyo](#tokyo)
 - [Indonesia](#indonesia)
@@ -385,6 +387,12 @@
 ### Cluj-Napoca
 
  - [Cluj Cowork](http://clujcowork.ro/) - Cluj-Napoca 400023, Emil Isac street, nr 23
+
+## Bulgaria
+
+### Kazanlak
+
+- [Bazata](https://bazata.bg) - Kazanlak 6100, 10 Georgi Benkovski str., fl. 3
 
 ## Japan
 
