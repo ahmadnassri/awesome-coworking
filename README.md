@@ -413,6 +413,35 @@
 
 - [CASE Shinjuku](http://case-shinjuku.com/) - Japan, 〒169-0075 Tokyo, Shinjuku, Takadanobaba, 1−28−10, 三慶ビル4F
 
+## India
+
+### Bengaluru
+- [GoodWorks](https://www.goodworks.in/) - Akshay Tech Park, Plot No. 72 & 73, Vijayanagar, EPIP Zone, Whitefield.
+- [The Hive](https://hiveworkspaces.com/) - VR Bengaluru, Level 5, ITPL Main Rd, Devasandra Industrial Estate.
+- [WeWork](https://wework.com/) - Cinnabar Hills, Embassy Golf Links Business Park, Challaghatta, Bengaluru, Karnataka 560071
+- [91Springboard](https://www.91springboard.com/) - 175 & 176, Bannerghatta Main Rd, Dollars Colony, Phase 4, J. P. Nagar
+
+### Chennai
+- [Awfis](https://www.awfis.com/) - Primus Building, Door No. SP–7A, Guindy Industrial Estate, SIDCO Industrial Estate, Guindy
+
+### Mumbai
+- [Innov8](https://www.innov8.work/) - Solitaire Corporate Park, Chakala, Andheri East
+- [91Springboard](https://www.91springboard.com/) - Kagalwala House, Plot No. 175,Behind Metro House CST Road, Kalina, Bandra Kurla Complex, Santacruz East
+- [WeWork](https://wework.com/) - Raheja Platinum, Road, off Andheri - Kurla Road, Sag Baug, Marol, Andheri East
+
+### New Delhi
+- [91Springboard](https://www.91springboard.com/) -  3rd Floor, Chandra Bhavan, 67-68, Nehru Place
+- [WeWork](https://wework.com/) - Floor 19, C-001/A2, Sector 16B, Noida, Uttar Pradesh 201301
+
+### Nagpur
+- [Ofis](https://ofisindia.com) - 10A, Bhau Saheb Surve Nagar, London Street
+
+
+### Pune
+- [91Springboard](https://www.91springboard.com/) -  Sky Loft, Creaticity Mall, opposite Golf Course, Shastrinagar, Yerawada
+- [WeWork](https://wework.com/) - Futura, Magarpatta Rd, Kirtane Baugh, Hadapsar
+- [Awfis](https://www.awfis.com/) - A & B-Wing, Business@Mantri, Viman Nagar 
+
 ## Indonesia
 
 ### Bali
