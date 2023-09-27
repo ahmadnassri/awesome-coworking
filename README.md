@@ -59,6 +59,8 @@
   - [Sarawak](#sarawak)
 - [Netherlands](#netherlands)
   - [Amsterdam](#amsterdam)
+- [Spain](#spain)
+  - [Palafrugell](#palafrugell)
 
 ## Canada
 
@@ -161,6 +163,12 @@
 ### Amsterdam
 
 - [Pubkey](https://pubkey.space/) - Korte Zoutkeetsgracht 2
+
+## Spain
+
+### Palafrugell
+
+- [Flocs Coworking Palafrugell](https://flocscoworking.com/) - Carrer de l'Estrella, 6, 17200 Palafrugell, Girona
 
 ## United States
 
