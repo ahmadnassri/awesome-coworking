@@ -334,6 +334,8 @@
 
 ## United Kingdom
 
+- [CoworkingSpaceHub](https://coworkingspacehub.com) - New Co Working Resource focused on open Co Working Spaces in the UK in October of 2023. 
+
 ### Bristol
 
 - [Desklodge](http://desklodge.com/bristol/) - 1 Temple Way, 5th Floor, BS2 0BY
