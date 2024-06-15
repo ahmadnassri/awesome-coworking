@@ -61,6 +61,8 @@
   - [Amsterdam](#amsterdam)
 - [Spain](#spain)
   - [Palafrugell](#palafrugell)
+- [Turkey](#turkey)
+  - [Kusadasi](#kusadasi)    
 
 ## Canada
 
@@ -170,6 +172,12 @@
 
 - [Flocs Coworking Palafrugell](https://flocscoworking.com/) - Carrer de l'Estrella, 6, 17200 Palafrugell, Girona
 
+## Turkey
+
+### Kusadasi
+
+- [Smart Birds](https://github.com/SmartBirdsCoworking) - Kuşadası, Türkmen district, Ant st., "Aso Park Residence", 28А, the ground floor
+  
 ## United States
 
 ### Austin
