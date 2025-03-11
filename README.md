@@ -66,6 +66,7 @@
 
 ### Toronto
 
+- [1RG](https://1rg.space/) - 2567 Dundas St W
 - [Acme Works](http://www.acmeworks.ca/) - 229 Niagara Street.
 - [Brightlane](http://brightlane.ca/) - 545 King Street West.
 - [Centre for Social Innovation](https://socialinnovation.org/)
@@ -79,6 +80,7 @@
 - [Foundery](http://foundery.is/) - 376 Bathurst Street.
 - [The Fueling Station](http://www.thefuelingstation.com/) - 147 Liberty Street.
 - [Gizmolabs](http://gizmolabs.ca/) - 298 Dundas Street West.
+- [HackLab.to](https://hacklab.to) - 1677 St Clair Ave West
 - [IQ Office Suites](https://iqoffice.ca/) - 140 Yonge Street.
 - [Lab T.O.](http://labto.com/) - 231 Wallace Ave.
 - [MakeWorks](http://makeworks.com/) - 1139 College Street.
